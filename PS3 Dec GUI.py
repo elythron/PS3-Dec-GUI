@@ -4,25 +4,25 @@ import os
 import subprocess
 import threading
 
-# Function to browse the folder where ps3dec is located
+# Folder where PS3dec is located
 def browse_program_folder():
     folder = filedialog.askdirectory()
     if folder:
         program_folder_var.set(folder)
 
-# Function to browse the ISO file to decrypt
+# ISO file to decrypt
 def browse_iso_file():
     file_path = filedialog.askopenfilename(filetypes=[("ISO files", "*.iso")])
     if file_path:
         iso_file_var.set(file_path)
 
-# Function to browse where to save the decrypted ISO
+# Output for the decrypted ISO
 def browse_save_file():
     file_path = filedialog.asksaveasfilename(defaultextension=".iso", filetypes=[("ISO files", "*.iso")])
     if file_path:
         save_file_var.set(file_path)
 
-# Function to browse and load the DKey from a file
+# Load the DKey from a file
 def browse_dkey_file():
     file_path = filedialog.askopenfilename(filetypes=[("DKey files", "*.dkey *.txt")])
     if file_path:
@@ -33,12 +33,12 @@ def browse_dkey_file():
         except Exception as e:
             messagebox.showerror("Error", f"Failed to read DKey file: {e}")
 
-# Function to execute the ps3dec command in a separate thread
+# Execute the ps3dec command in a separate thread
 def run_command_in_thread():
     thread = threading.Thread(target=execute_command)
     thread.start()
 
-# Function to execute the ps3dec command
+# Eexecute the ps3dec command
 def execute_command():
     program_folder = program_folder_var.get()
     dkey = dkey_var.get()
