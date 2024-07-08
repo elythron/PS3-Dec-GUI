@@ -31,7 +31,7 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 3. Select the .iso file you want to Decrypt
 
 4. Select a Folder to save the Decrypted file.
-   - You can name it how ever you want.
+   - You can name the file how ever you want.
 
 5. Click Execute.
 
