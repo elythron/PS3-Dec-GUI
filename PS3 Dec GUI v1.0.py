@@ -9,7 +9,7 @@ def browse_program_folder():
     if folder:
         program_folder_var.set(folder)
 
-# ISO file to decrypt
+# ISO file to Decrypt
 def browse_iso_file():
     file_path = filedialog.askopenfilename(filetypes=[("ISO files", "*.iso")])
     if file_path:
