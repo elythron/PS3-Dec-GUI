@@ -1,6 +1,5 @@
 # PS3 Dec GUI
-
-A Insterface for PS3 ROM Redcrtpyion.
+Simple insterface for PS3 ROM Decryption.
 
 
 The decryption tool can be downloaded from [this site](https://www.romhacking.net/utilities/1456/)
@@ -12,7 +11,6 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 
 ## Guide
 
-It is Simple.
 
 ![Interface](https://github.com/elythron/PS3-Dec-GUI/assets/117151106/96c6adae-919e-4e4d-8048-7c9a95b35dc2)
 
