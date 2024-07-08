@@ -20,9 +20,11 @@ It is Simple.
 
 2. Type in the Drecryption Key OR load a `.dkey` or `.txt` file containing the key, (the content of the file can not have spaces nor empty lines).
      - Example of a valid key: No spaces or empty lines.
+       
         `A0B1A1B00A1BA0B1101AB0A11B0A10`
        
      - Example of an invalid key: with spaces and "or" empty lines.
+       
         `A0 B1 A1 B0 0A 1B A0 B1 10 1A B0 A1 1B 0A 10 1B
                                                          `
 3. Select the .iso file you want to Decrypt
