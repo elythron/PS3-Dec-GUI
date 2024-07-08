@@ -14,7 +14,8 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 
 It is Simple.
 
-![Interface](https://github.com/elythron/PS3-Dec-GUI/assets/117151106/3fbb5d6d-5911-4a08-9d17-07f83af28606)
+![Interface](https://github.com/elythron/PS3-Dec-GUI/assets/117151106/ddda934b-48e2-4dd0-b76c-722eb8f345d4)
+
 
 
 1. Select the folder where the Decryptor is located, not the file, just the folder.
