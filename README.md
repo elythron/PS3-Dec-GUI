@@ -1,4 +1,4 @@
-# PS3 Dec GUI
+# PS3 Decryption GUI
 Simple interface for PS3 ROM Decryption.
 
 
