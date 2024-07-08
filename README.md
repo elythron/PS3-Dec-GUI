@@ -19,7 +19,7 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 
 1. Select the folder where the Decryptor is located, not the file, just the folder.
 
-2. Type in the Drecryption Key OR load a `.dkey` or `.txt` file containing the key, (the content of the file can not have spaces nor empty lines).
+2. Type in the Drecryption Key OR load a `.dkey` or `.txt` file containing the key, (the key you type in the interface or the content of the file can not have spaces nor empty lines).
      - Example of a valid key: No spaces or empty lines.
        
         `A0B1A1B00A1BA0B1101AB0A11B0A10`
