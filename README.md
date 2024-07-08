@@ -3,7 +3,7 @@
 A Insterface for PS3 ROM Redcrtpyion.
 
 
-Decryptor can be found in this Site https://www.romhacking.net/utilities/1456/
+The decryption tool can be downloaded from [this site](https://www.romhacking.net/utilities/1456/)
 or
 compiled from https://github.com/al3xtjames/PS3Dec
 
