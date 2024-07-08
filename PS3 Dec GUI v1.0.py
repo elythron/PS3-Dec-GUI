@@ -55,7 +55,8 @@ def execute_command():
     except Exception as e:
         messagebox.showerror("Error", f"An error occurred: {e}")
 
-# Create the main application window
+# 
+# Main application window
 app = tk.Tk()
 app.title("PS3dec GUI")
 
@@ -77,7 +78,7 @@ iso_file_var = tk.StringVar()
 tk.Entry(app, textvariable=iso_file_var, width=50).grid(row=2, column=1, padx=10, pady=5)
 tk.Button(app, text="Browse...", command=browse_iso_file).grid(row=2, column=2, padx=10, pady=5)
 
-# Save file name
+# Save file
 tk.Label(app, text="Save As:").grid(row=3, column=0, sticky=tk.W, padx=10, pady=5)
 save_file_var = tk.StringVar()
 tk.Entry(app, textvariable=save_file_var, width=50).grid(row=3, column=1, padx=10, pady=5)
