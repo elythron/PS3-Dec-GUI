@@ -19,7 +19,7 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 
 1. Select the folder where the Decryptor is located, not the file, just the folder.
 
-2. Type in the Drecryption Key OR load a `.dkey` or `.txt` file containing the key, (the key you type in the interface or the content of the file can not have spaces nor empty lines).
+2. Either type in the Drecryption Key with no spaces OR load a `.dkey` or `.txt` file containing the key, (the content of the file can not have spaces or empty lines).
      - Example of a valid key: No spaces or empty lines.
        
         `A0B1A1B00A1BA0B1101AB0A11B0A10`
@@ -27,6 +27,7 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
      - Example of an invalid key: with spaces and "or" empty lines.
        
         `A0 B1 A1 B0 0A 1B A0 B1 10 1A B0 A1 1B 0A 10`
+       
 3. Select the .iso file you want to Decrypt
 
 4. Select a Folder to save the Decrypted file.
