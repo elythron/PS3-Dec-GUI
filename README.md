@@ -25,8 +25,7 @@ It is Simple.
        
      - Example of an invalid key: with spaces and "or" empty lines.
        
-        `A0 B1 A1 B0 0A 1B A0 B1 10 1A B0 A1 1B 0A 10 1B
-                                                         `
+        `A0 B1 A1 B0 0A 1B A0 B1 10 1A B0 A1 1B 0A 10`
 3. Select the .iso file you want to Decrypt
 
 4. Select a Folder to save the Decrypted file.
