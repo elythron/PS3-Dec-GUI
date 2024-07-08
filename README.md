@@ -1,5 +1,5 @@
 # PS3 Decryption GUI
-Simple interface for PS3 ROM Decryption.
+Simple interface for PS3 ROM Decryption Tool.
 
 
 The decryption tool can be downloaded from [this site](https://www.romhacking.net/utilities/1456/)
