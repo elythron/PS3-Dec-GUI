@@ -14,7 +14,8 @@ This Program uses the one from [this site](https://www.romhacking.net/utilities/
 
 It is Simple.
 
-![Interface](https://github.com/elythron/PS3-Dec-GUI/assets/117151106/ddda934b-48e2-4dd0-b76c-722eb8f345d4)
+![Interface](https://github.com/elythron/PS3-Dec-GUI/assets/117151106/96c6adae-919e-4e4d-8048-7c9a95b35dc2)
+
 
 
 
