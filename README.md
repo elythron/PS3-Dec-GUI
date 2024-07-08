@@ -6,7 +6,7 @@ The decryption tool can be downloaded from [this site](https://www.romhacking.ne
 or
 compiled from [GitHub](https://github.com/al3xtjames/PS3Dec)
 
-This Program uses the one from [this site](https://www.romhacking.net/utilities/1456/), I haven't tested with the one from Git.
+This Program uses the one from [this site](https://www.romhacking.net/utilities/1456/), I haven't tested with the one from GitHub.
 
 
 ## Guide
